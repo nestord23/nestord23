@@ -1,16 +1,36 @@
-### Hi there 👋
+# ¡Hola! 👋 Soy [Tu Nombre]
 
-<!--
-**nestord23/nestord23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Imagen de perfil](enlace-a-tu-imagen-de-perfil.jpg)
 
-Here are some ideas to get you started:
+Bienvenido a mi perfil de GitHub. Soy un apasionado por la programación y me encanta trabajar en una variedad de proyectos interesantes. Aquí encontrarás algunos de mis repositorios y contribuciones.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mis intereses
+
+- Desarrollo web
+- Ciencia de datos
+- Inteligencia artificial
+- Programación en Python
+
+## Mis proyectos destacados
+
+### [Proyecto 1](enlace-al-proyecto-1)
+Breve descripción del proyecto 1.
+
+### [Proyecto 2](enlace-al-proyecto-2)
+Breve descripción del proyecto 2.
+
+### [Proyecto 3](enlace-al-proyecto-3)
+Breve descripción del proyecto 3.
+
+## Mis estadísticas de GitHub
+
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=nombre-de-usuario&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## Contacto
+
+Puedes encontrarme en:
+
+- LinkedIn: [Enlace a tu perfil de LinkedIn](enlace-a-tu-linkedin)
+- Twitter: [@tu_usuario_de_twitter](enlace-a-tu-twitter)
+
+¡No dudes en contactarme si tienes alguna pregunta o propuesta interesante!
