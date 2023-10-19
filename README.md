@@ -4,8 +4,9 @@
 ![Foto de Fondo para Linkedin Fotógrafa Simple Azul](https://github.com/nestord23/nestord23/assets/104476402/485d0d92-6071-4218-b27e-d9f9a6ea41f3)
 
   ## Sobre Mi
+ <div style="text-align: justify;"> 
 Bienvenido a mi perfil de GitHub. Soy un Desarrollador Web Junior Mi pasión por el desarrollo web me impulsa a superar constantemente nuevos desafíos. Tengo la capacidad de diseñar y desarrollar sitios web atractivos y funcionales, así como aplicaciones interactivas. Creo firmemente en la colaboración y el aprendizaje continuo como pilares para mi crecimiento profesional.
-
+</div>
 ## Tecnologias
 <p align="left">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
