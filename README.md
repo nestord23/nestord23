@@ -7,9 +7,6 @@
 Bienvenido a mi perfil de GitHub. Soy un Desarrollador Web Junior con experiencia en JavaScript, Java, Bootstrap, CSS, HTML y C++. Mi pasión por el desarrollo web me impulsa a superar constantemente nuevos desafíos. Tengo la capacidad de diseñar y desarrollar sitios web atractivos y funcionales, así como aplicaciones interactivas. Creo firmemente en la colaboración y el aprendizaje continuo como pilares para mi crecimiento profesional.
 
 
-## Contacto
-<a href="URL-de-tu-perfil-de-LinkedIn">
-  <img src="https://github.com/nestord23/nestord23/blob/main/assets/104476402/f0f4ae75-5b59-4a61-bc76-94e8e1ecea01.png" alt="LinkedIn" width="50" height="50">
-</a>
+
 [LinkedIn](https://www.linkedin.com/in/nestor-montenegro/)
 
