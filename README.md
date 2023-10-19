@@ -8,5 +8,5 @@ Bienvenido a mi perfil de GitHub. Soy un Desarrollador Web Junior con experienci
 
 
 ## Contacto
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nestor-montenegro/)
+![LI-In-Bug](https://github.com/nestord23/nestord23/assets/104476402/f0f4ae75-5b59-4a61-bc76-94e8e1ecea01)[LinkedIn](https://www.linkedin.com/in/nestor-montenegro/)
 
