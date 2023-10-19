@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy [Tu Nombre]
 
-![Imagen de perfil](https://giphy.com/embed/IdyAQJVN2kVPNUrojM)
+![GIF animado](https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u)
 
 Bienvenido a mi perfil de GitHub. Soy un apasionado por la programación y me encanta trabajar en una variedad de proyectos interesantes. Aquí encontrarás algunos de mis repositorios y contribuciones.
 
