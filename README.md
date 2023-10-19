@@ -4,18 +4,9 @@
 ![Foto de Fondo para Linkedin Fotógrafa Simple Azul](https://github.com/nestord23/nestord23/assets/104476402/485d0d92-6071-4218-b27e-d9f9a6ea41f3)
 
 
-Bienvenido a mi perfil de GitHub. Soy un apasionado por la programación y me encanta trabajar en una variedad de proyectos interesantes. Aquí encontrarás algunos de mis repositorios y contribuciones.
+Bienvenido a mi perfil de GitHub. Soy un Desarrollador Web Junior con experiencia en JavaScript, Java, Bootstrap, CSS, HTML y C++. Mi pasión por el desarrollo web me impulsa a superar constantemente nuevos desafíos. Tengo la capacidad de diseñar y desarrollar sitios web atractivos y funcionales, así como aplicaciones interactivas. Creo firmemente en la colaboración y el aprendizaje continuo como pilares para mi crecimiento profesional.
 
-## Mis intereses
-
-- Desarrollo web
-- Ciencia de datos
-- Inteligencia artificial
-- Programación en Python
 
 ## Contacto
-
-Puedes encontrarme en:
-
-- LinkedIn: [Enlace a tu perfil de LinkedIn](https://www.linkedin.com/in/nestor-montenegro/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nestor-montenegro/)
 
