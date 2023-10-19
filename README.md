@@ -17,5 +17,5 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado por la programación y me en
 
 Puedes encontrarme en:
 
-- LinkedIn: [Enlace a tu perfil de LinkedIn](enlace-a-tu-linkedin)
+- LinkedIn: [Enlace a tu perfil de LinkedIn](https://www.linkedin.com/in/nestor-montenegro/)
 
