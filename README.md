@@ -1,5 +1,5 @@
 
-![Banner Nestor](nestor-banner.png)
+![Banner Nestor](/nestor-banner.png)
 
 Desarrollador Frontend Jr. | JavaScript • React • Node.js
 
