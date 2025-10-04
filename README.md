@@ -1,5 +1,5 @@
 
-![Banner Nestor Montenegro](nestorbanner.png)
+![Banner Nestor Montenegro](https://github.com/nestord23/nestord23/blob/main/bannernestor.png)
 
 Desarrollador Frontend Jr. | JavaScript • React • Node.js
 
