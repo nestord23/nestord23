@@ -8,7 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nestor-montenegro)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portafolio-puce-eta-40.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:realdanii135@gmail.com)
 
 </div>
 
@@ -93,16 +92,5 @@ Visita mi [portfolio](https://portafolio-puce-eta-40.vercel.app/) para ver mis p
 ¿Tienes un proyecto en mente? ¡Hablemos!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nestor-montenegro)
-[![Email](https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail)](mailto:realdanii135@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-  
-### 💻 "El código es poesía" 
-  
-![Visitor Count](https://profile-counter.glitch.me/nestord23/count.svg)
 
 </div>
