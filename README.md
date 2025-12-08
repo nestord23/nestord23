@@ -1,5 +1,3 @@
-# ¡Hola! 👋 Soy Nestor Montenegro
-
 <div align="center">
   
 ![Banner Nestor Montenegro](https://github.com/nestord23/nestord23/blob/main/bannernestor.png)
