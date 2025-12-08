@@ -54,18 +54,6 @@ const nestor = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nestord23&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nestord23&layout=compact&theme=radical)
-
-</div>
-
----
-
 ## 🎯 Valor que Aporto
 
 ```typescript
@@ -92,5 +80,9 @@ Visita mi [portfolio](https://portafolio-puce-eta-40.vercel.app/) para ver mis p
 ¿Tienes un proyecto en mente? ¡Hablemos!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nestor-montenegro)
+
+<br/>
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3p0ZjUybG56b2NuYmZpYjY0MWloMWQ5bTc4ZWdyMXV3bHl4eGd1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Happy Coding!"/>
 
 </div>
