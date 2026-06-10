@@ -67,7 +67,7 @@ Disfruto aprender nuevas tecnologías, resolver problemas complejos y participar
       </a>
     </td>
     <td width="50%" valign="middle" align="center">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGE5Z3E0MWJ6dzZqZXQweXFqZWU5djI5YjV3bmQ1cmFsY2MxbmFyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dqINnqA7Vhx3XbVe8z/giphy.gif" width="380" alt="Developer"/>
+      <img src="https://media1.tenor.com/m/F6pgKmWlducAAAAC/edwin-diaz.gif" width="300" alt="Edwin Diaz"/>
     </td>
   </tr>
 </table>
