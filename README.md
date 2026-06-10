@@ -13,7 +13,9 @@
 
 ## Sobre Mí
 
-Desarrollador Frontend Jr. de Guatemala, enfocado en crear experiencias de usuario intuitivas y escribir código limpio y mantenible. Actualmente construyendo proyectos con React y Node.js, con el objetivo de desarrollar productos digitales que generen un impacto positivo.
+Desarrollador Frontend Junior de Guatemala con experiencia en la construcción de aplicaciones web modernas utilizando React, TypeScript, Astro y Node.js. Me enfoco en desarrollar interfaces intuitivas, componentes reutilizables y soluciones escalables que combinen rendimiento, mantenibilidad y una excelente experiencia de usuario.
+
+Disfruto aprender nuevas tecnologías, resolver problemas complejos y participar en proyectos que generen impacto real. Mi objetivo es seguir creciendo como ingeniero de software mientras contribuyo al desarrollo de productos digitales de alta calidad.
 
 ---
 
@@ -62,10 +64,6 @@ Desarrollador Frontend Jr. de Guatemala, enfocado en crear experiencias de usuar
     <td width="50%" valign="middle" align="center">
       <a href="https://nestord23.github.io/portafolio/">
         <img src="https://img.shields.io/badge/Visitar%20Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-      </a>
-      <br><br>
-      <a href="https://nestord23.github.io/portafolio/">
-        <img src="https://img.shields.io/badge/Explorar%20Proyectos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explorar"/>
       </a>
     </td>
     <td width="50%" valign="middle" align="center">
