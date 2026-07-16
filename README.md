@@ -5,7 +5,7 @@
 ### Desarrollador Frontend Jr. | Creando experiencias web excepcionales
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nestor-montenegro)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nestord23.github.io/portafolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nestor-portafolio.pages.dev/)
 
 </div>
 
@@ -63,7 +63,7 @@ Disfruto aprender nuevas tecnologías, resolver problemas complejos y participar
 <table align="center">
   <tr>
     <td width="50%" valign="middle" align="center">
-      <a href="https://nestord23.github.io/portafolio/">
+      <a href="https://nestor-portafolio.pages.dev/">
         <img src="https://img.shields.io/badge/Visitar%20Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
       </a>
     </td>
