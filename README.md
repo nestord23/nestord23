@@ -5,7 +5,7 @@
 ### Desarrollador Frontend Jr. | Creando experiencias web excepcionales
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nestor-montenegro)
-[![Portfolio](https://img.shields.io/badge/Portfolio-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://nestor-portafolio.pages.dev/)
+[![Portfolio](https://img.shields.io/badge/Visitar%20Portafolio-F76F53?style=for-the-badge&logo=zenbrowser&logoColor=white)](https://nestor-portafolio.pages.dev/)
 
 </div>
 
