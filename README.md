@@ -65,6 +65,9 @@ Disfruto aprender nuevas tecnologías, resolver problemas complejos y participar
 <table align="center">
   <tr>
     <td width="50%" valign="middle" align="center">
+      <a href="https://nestor-portafolio.pages.dev/">
+        <img src="https://img.shields.io/badge/Visitar%20Portafolio-F76F53?style=for-the-badge&logo=zenbrowser&logoColor=white" alt="Portfolio"/>
+      </a>
     </td>
     <td width="50%" valign="middle" align="center">
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWVtNmR3d3pycTV5eGhhemF4OXNtcnJqZTVqZDhqZmsxNXE1emhrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e0M9JUv3T7rqDSv7Dz/giphy.gif" width="190" alt="Developer"/>
