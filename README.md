@@ -5,7 +5,7 @@
 ### Desarrollador Frontend Jr. | Creando experiencias web excepcionales
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nestor-montenegro)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nestor-portafolio.pages.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://nestor-portafolio.pages.dev/)
 
 </div>
 
@@ -41,6 +41,8 @@ Disfruto aprender nuevas tecnologías, resolver problemas complejos y participar
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 **Bases de Datos**
 
@@ -64,7 +66,7 @@ Disfruto aprender nuevas tecnologías, resolver problemas complejos y participar
   <tr>
     <td width="50%" valign="middle" align="center">
       <a href="https://nestor-portafolio.pages.dev/">
-        <img src="https://img.shields.io/badge/Visitar%20Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+        <img src="https://img.shields.io/badge/Visitar%20Portafolio-F76F53?style=for-the-badge&logo=zenbrowser&logoColor=white" alt="Portfolio"/>
       </a>
     </td>
     <td width="50%" valign="middle" align="center">
