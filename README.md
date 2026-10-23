@@ -12,7 +12,7 @@
 
 ## Sobre Mí
 
-Desarrollador Frontend Junior de Guatemala con experiencia en la construcción de aplicaciones web modernas utilizando React, TypeScript, Astro y Node.js. Me enfoco en desarrollar interfaces intuitivas, componentes reutilizables y soluciones escalables que combinen rendimiento, mantenibilidad y una excelente experiencia de usuario.
+Desarrollador Frontend Junior de Guatemala con experiencia en la construcción de aplicaciones web modernas utilizando React, TypeScript, Astro y Node.js, con interés en ampliar mi stack hacia el backend y el desarrollo de sistemas con C# y Rust. Me enfoco en desarrollar interfaces intuitivas, componentes reutilizables y soluciones escalables que combinen rendimiento, mantenibilidad y una excelente experiencia de usuario.
 
 Disfruto aprender nuevas tecnologías, resolver problemas complejos y participar en proyectos que generen impacto real. Mi objetivo es seguir creciendo como ingeniero de software mientras contribuyo al desarrollo de productos digitales de alta calidad.
 
@@ -37,6 +37,8 @@ Disfruto aprender nuevas tecnologías, resolver problemas complejos y participar
 **Backend & Tools**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
